@@ -1,0 +1,18 @@
+# Iniciar: python -m venv venv
+
+# Ativar: source venv/Scripts/activate
+
+# Iniciar
+
+# python client/client.py 
+
+# python app/cams.py 
+
+# python app/fire_detect.py 
+
+# Desativar: deactivate
+
+# Servidor de video (mock - subestacao -> servidor HTTP): http://127.0.0.1:5000/video_feed 
+
+
+Usei parâmetros reduzidos para verificar falso positivo (model.conf = 0.001)
